@@ -1,0 +1,15 @@
+<sbspresets formatversion="1" count="1">
+ <sbspreset pkgurl="pkg:///Conarele_Noisy" label="preset" usertags="">
+  <presetinput type="1" value="1,1" uid="4294967295" identifier="$pixelsize"/>
+  <presetinput type="8" value="11,11" uid="4294967295" identifier="$outputsize"/>
+  <presetinput type="4" value="0" uid="4294967295" identifier="$randomseed"/>
+  <presetinput type="0" value="0.05" uid="1464249026" identifier="height_ground"/>
+  <presetinput type="3" value="0.764368,0.764368,0.764368,1" uid="1464252748" identifier="Ground_color"/>
+  <presetinput type="4" value="0" uid="1464274324" identifier="Smooft_Concrete"/>
+  <presetinput type="0" value="0.09" uid="1464452428" identifier="Rough_Concreat_Normal_Streght"/>
+  <presetinput type="4" value="1" uid="1464454402" identifier="Wihte_Taile"/>
+  <presetinput type="4" value="1" uid="1464517724" identifier="Tails"/>
+  <presetinput type="4" value="1" uid="1465923456" identifier="very_rough_tail"/>
+  <presetinput type="4" value="1" uid="1465931511" identifier="Textur_color"/>
+ </sbspreset>
+</sbspresets>
